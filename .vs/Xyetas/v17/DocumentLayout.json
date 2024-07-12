@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\xyetas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202951C5-A4F4-46DC-AB90-C7493EF484E1}|Xyetas.csproj|d:\\xyetas\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202951C5-A4F4-46DC-AB90-C7493EF484E1}|Xyetas.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "player.cs",
+              "DocumentMoniker": "D:\\xyetas\\player.cs",
+              "RelativeDocumentMoniker": "player.cs",
+              "ToolTip": "D:\\xyetas\\player.cs*",
+              "RelativeToolTip": "player.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:42:10.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
